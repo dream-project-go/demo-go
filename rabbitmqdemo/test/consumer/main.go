@@ -1,10 +1,9 @@
 package main
+
 import (
 	"log"
-	"rabbitmq-demo/rabbitmq"
+	"rabbitmqdemo/rabbitmq"
 )
-
-
 
 func main() {
 	dialUrl := "amqp://mq:123456@192.168.56.106:5672/"

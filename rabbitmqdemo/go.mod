@@ -1,4 +1,4 @@
-module rabbitmq-demo
+module rabbitmqdemo
 
 go 1.13
 

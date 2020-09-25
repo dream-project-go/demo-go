@@ -1,7 +1,7 @@
 package main
 
 import (
-	"rabbitmq-demo/rabbitmq"
+	"rabbitmqdemo/rabbitmq"
 	"time"
 
 	"github.com/streadway/amqp"
